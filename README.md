@@ -69,14 +69,6 @@
 <a href="https://instagram.com/talh4tr" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" alt="talh4tr" height="54" width="54" /></a>
 <p align="left"
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=talh4tr&show_icons=true&layout=compact&theme=nightowl" alt="talh4tr" /></p>
-
-![Talha](https://github.com/talh4tr/Statics/blob/master/generated/languages.svg)
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talh4tr&theme=nightowl" alt="talh4tr" /></p>
-</details>
-
 ##
 
 <details>
