@@ -1,12 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=talh4tr.talh4tr" width="1">
-
-  <h1 align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://github.com/talh4tr/talh4tr/blob/main/talh4tr.gif">
-    </a>
-  </h1>
-
-  <p align="center">
+<p align="center">
    <b> Hi, I'm Talha, Freely Software Developer from Turkey </b>
     <br>
     <br>
@@ -16,8 +8,7 @@
   
     📚 I’m currently learning different software langauages
 
-  [[https://spotify-github-profile.vercel.app/api/view.svg?uid=31diehhd3dinusw2vjiz5tzs6rzq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31diehhd3dinusw2vjiz5tzs6rzq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
-      
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31diehhd3dinusw2vjiz5tzs6rzq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31diehhd3dinusw2vjiz5tzs6rzq&redirect=true)      
 
   <hr>
   <h2 align="center">🔥 <b>Languages & Frameworks & Tools & Abilities</b> 🔥</h2>
