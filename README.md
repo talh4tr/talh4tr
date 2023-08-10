@@ -6,32 +6,31 @@
    
     💻 I love writing code and learn anythings about it
   
-    📚 I’m currently learning different software langauages
+    📚 I’m currently learning different software langauages   
 
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31diehhd3dinusw2vjiz5tzs6rzq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31diehhd3dinusw2vjiz5tzs6rzq&redirect=true)      
+  !spotify-github-profile      
 
   <hr>
   <h2 align="center">🔥 <b>Languages & Frameworks & Tools & Abilities</b> 🔥</h2>
   <br>
   <p align="center">
   <code><img title="PHP" height="25" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Php_logo.svg"></code>
-    <code><img title="Expo Cli" height="25" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/expo-svgrepo-com.svg"></code>
-    <code><img title="React Native" height="25" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/react-native-1.svg"></code>
-    <code><img title="Python" height="25" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/python-original.svg"></code>
-    <code><img title="Javascript" height="25" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/javascript.svg"></code>
-    <code><img title="Problem Solving" height="25" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/problemSolving.png"></code>
-    <code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/html5.svg"></code>
-    <code><img title="Git" height="25" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/git-original.svg"></code>
-    <code><img title="Visual Studio Code" height="25" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/vscode.svg"></code>
-    <code><img title="JSON" height="25" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/json.svg"></code>
-    <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/github.svg"></code>
-    <code><img title="Docker" height="25" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/docker.png"></code>
-    <code><img title="Replit" height="30" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/repl.it.svg"></code>
-    <code><img title="PostgreSQL" height="25" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/postgresql.svg"></code>
-    <code><img title="MongoDB" height="30" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/mongoDB.png"></code>
-    <code><img title="Redis" height="30" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/redis-cube.svg"></code>
-    <code><img title="Railway" height="30" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/railway.svg"></code>
-    <code><img title="Heroku" height="30" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/heroku.svg"></code>
+    <code><img title="Expo Cli" height="25" src="https://raw.githubusercontent.com/talh4tr/talh4tr/main/images/expo-svgrepo-com.svg"></code>
+    <code><img title="React Native" height="25" src="https://raw.githubusercontent.com/talh4tr/talh4tr/main/images/react-native-1.svg"></code>
+    <code><img title="Python" height="25" src="https://raw.githubusercontent.com/talh4tr/talh4tr/main/images/python-original.svg"></code>
+    <code><img title="Javascript" height="25" src="https://raw.githubusercontent.com/talh4tr/talh4tr/main/images/javascript.svg"></code>
+    <code><img title="Problem Solving" height="25" src="https://raw.githubusercontent.com/talh4tr/talh4tr/main/images/problemSolving.png"></code>
+    <code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/talh4tr/talh4tr/main/images/html5.svg"></code>
+    <code><img title="Git" height="25" src="https://raw.githubusercontent.com/talh4tr/talh4tr/main/images/git-original.svg"></code>
+    <code><img title="Visual Studio Code" height="25" src="https://raw.githubusercontent.com/talh4tr/talh4tr/main/images/vscode.svg"></code>
+    <code><img title="JSON" height="25" src="https://raw.githubusercontent.com/talh4tr/talh4tr/main/images/json.svg"></code>
+    <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/talh4tr/talh4tr/main/images/github.svg"></code>
+    <code><img title="Replit" height="30" src="https://raw.githubusercontent.com/talh4tr/talh4tr/main/images/repl.it.svg"></code>
+    <code><img title="PostgreSQL" height="25" src="https://raw.githubusercontent.com/talh4tr/talh4tr/main/images/postgresql.svg"></code>
+    <code><img title="MongoDB" height="30" src="https://raw.githubusercontent.com/talh4tr/talh4tr/main/images/mongoDB.png"></code>
+    <code><img title="Redis" height="30" src="https://raw.githubusercontent.com/talh4tr/talh4tr/main/images/redis-cube.svg"></code>
+    <code><img title="Railway" height="30" src="https://raw.githubusercontent.com/talh4tr/talh4tr/main/images/railway.svg"></code>
+    <code><img title="Heroku" height="30" src="https://raw.githubusercontent.com/talh4tr/talh4tr/main/images/heroku.svg"></code>
   </p>
   <hr>
 
