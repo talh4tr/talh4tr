@@ -5,7 +5,7 @@
 
 ### Merhaba, ben Talha 👋
 
-İzmir / Urla'da yaşıyorum. [Doku Ahşap](https://www.dokuahsap.com/) için e-ticaret, dijital işler ve yeni fikirler üzerine çalışıyorum.
+İzmir / Urla'da yaşıyorum. Dijital projeler, oyunlar ve yeni fikirlerle ilgileniyorum.
 
 <a href="https://github.com/talh4tr"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://discord.com/users/776836468672692274"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
@@ -17,9 +17,9 @@
 
 ### ✦ Nelerle ilgileniyorum?
 
-- 🪵 **Doku Ahşap:** Üretim ve e-ticareti buluşturan işler.
-- 🧩 **Dijital projeler:** İşleri kolaylaştıran araçlar ve yeni fikirler.
-- 🎧 **Müzik ve oyun:** Çalışma aralarında iyi bir mola.
+- 🧩 **Dijital projeler:** Günlük hayatı kolaylaştıran fikirler.
+- 🎮 **Oyunlar:** Topluluklar, modlar ve dijital dünyalar.
+- 🎧 **Müzik:** Çalışırken arka plandaki vazgeçilmezim.
 
 ### ✦ GitHub hareketlerim
 
@@ -27,7 +27,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=talh4tr&bg_color=0D1117&color=CBD5E1&line=2DD4BF&point=F8FAFC&area=true&area_color=164E63&hide_border=true" width="100%" alt="Talha'nın GitHub aktivite grafiği" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=talh4tr&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=CBD5E1&icon_color=2DD4BF&include_all_commits=true" height="165" alt="Talha'nın GitHub istatistikleri" />
+<a href="https://github.com/talh4tr?tab=overview"><img src="https://img.shields.io/badge/GitHub-Katk%C4%B1lar%C4%B1m%C4%B1%20g%C3%B6r-164E63?style=for-the-badge&logo=github&logoColor=white" alt="GitHub katkılarımı gör" /></a>
 
 </div>
 
@@ -49,7 +49,7 @@
 
 </div>
 
-<!-- KURULUM: GitHub'da talh4tr adında herkese açık bir depo aç ve bu dosyayı köke README.md adıyla ekle.
+<!-- CANLI KART KURULUMU:
 Canlı Discord/Spotify kartı için https://discord.gg/lanyard sunucusuna 776836468672692274 ID'li hesabınla katıl.
 Discord > Kullanıcı Ayarları > Bağlantılar bölümünden Spotify hesabını bağla ve Spotify etkinliğini görünür kıl.
 Lanyard kartı son dinlenen şarkıyı saklamaz; o anda dinlenen şarkıyı gösterir. -->
