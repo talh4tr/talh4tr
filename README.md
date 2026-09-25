@@ -1,50 +1,25 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Talha Çiftçi · dijital projeler, oyun kültürü ve yeni fikirler" />
+<img src="./assets/header.svg" width="100%" alt="Talha Çiftçi · @talh4tr · İzmir" />
 
 <br />
 
-<a href="https://github.com/talh4tr"><img src="https://img.shields.io/badge/GitHub-talh4tr-172734?style=for-the-badge&logo=github&logoColor=EAF4F2" alt="GitHub: talh4tr" /></a>
-<a href="https://discord.com/users/776836468672692274"><img src="https://img.shields.io/badge/Discord-talh4ciftci-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: talh4ciftci" /></a>
-<a href="https://t.me/talh4ciftci"><img src="https://img.shields.io/badge/Telegram-talh4ciftci-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram: talh4ciftci" /></a>
+<a href="https://github.com/talh4tr"><img src="https://img.shields.io/badge/GitHub-171D2B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+<a href="https://discord.com/users/776836468672692274"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>&nbsp;
+<a href="https://t.me/talh4ciftci"><img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 
-</div>
+<br /><br />
 
-<br />
+<img src="https://img.shields.io/badge/Dijital%20Projeler-144A50?style=flat-square&logo=codeforces&logoColor=white" alt="Dijital projeler" />&nbsp;
+<img src="https://img.shields.io/badge/Oyun-144A50?style=flat-square&logo=steam&logoColor=white" alt="Oyun" />&nbsp;
+<img src="https://img.shields.io/badge/Müzik-144A50?style=flat-square&logo=spotify&logoColor=white" alt="Müzik" />
 
-### Benim dünyam
+<br /><br />
 
-İzmir'de yaşıyorum. Dijital projeler geliştiriyor, oyun topluluklarını ve yeni teknolojileri takip ediyorum. Bir fikri işe yarayan bir şeye dönüştürmeyi seviyorum.
+<a href="https://github.com/talh4tr?tab=overview"><img src="./assets/contributions.svg" width="100%" alt="Son 12 ayın GitHub katkı grafiği" /></a>
 
-<table>
-<tr>
-<td width="33%" valign="top"><strong>01 / Üretmek</strong><br /><br />Dijital araçlar ve yaratıcı fikirler.</td>
-<td width="33%" valign="top"><strong>02 / Keşfetmek</strong><br /><br />Oyunlar, topluluklar ve internet kültürü.</td>
-<td width="33%" valign="top"><strong>03 / Dinlemek</strong><br /><br />Müzik hep bir yerlerde çalıyor. 🎧</td>
-</tr>
-</table>
+<br /><br />
 
-### GitHub etkinliği
-
-<a href="https://github.com/talh4tr?tab=overview"><img src="./assets/contributions.svg" width="100%" alt="Talha'nın son 12 aylık GitHub katkı takvimi" /></a>
-
-<sub>Grafik GitHub katkı verilerinden üretilir ve her gün bu depoda güncellenir.</sub>
-
-### Şu an ne yapıyorum?
-
-<div align="center">
-
-<a href="https://discord.com/users/776836468672692274"><img src="https://lanyard.cnrad.dev/api/776836468672692274?theme=dark&bg=0e1723&borderRadius=16px&hideActivity=whenNotUsed&idleMessage=%C5%9Eu%20an%20%C3%A7evrimd%C4%B1%C5%9F%C4%B1" alt="Discord durumu ve Spotify'da şu an dinlediğim şarkı" /></a>
-
-<br />
-<sub>Spotify'da çalan şarkı, Discord dinleme etkinliğim açıksa kartta görünür.</sub>
-
-</div>
-
-<br />
-
-<div align="center">
-
-**Bir şeyler konuşalım mı?** &nbsp; [Telegram](https://t.me/talh4ciftci) · [Discord](https://discord.com/users/776836468672692274)
+<a href="https://discord.com/users/776836468672692274"><img src="https://lanyard.cnrad.dev/api/776836468672692274?theme=dark&bg=0e1723&borderRadius=16px&hideActivity=whenNotUsed&idleMessage=%C5%9Eu%20an%20%C3%A7evrimd%C4%B1%C5%9F%C4%B1" alt="Discord durumu ve Spotify'da çalan şarkı" /></a>
 
 </div>
