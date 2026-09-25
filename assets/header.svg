@@ -1,13 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="265" viewBox="0 0 1000 265" role="img" aria-labelledby="title desc">
-<title id="title">Talha Çiftçi</title><desc id="desc">GitHub profil başlığı, İzmir, Türkiye.</desc>
-<defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#0e1723"/><stop offset="1" stop-color="#163c45"/></linearGradient><linearGradient id="line"><stop stop-color="#52e0bd"/><stop offset="1" stop-color="#5b8ee5"/></linearGradient></defs>
-<rect width="1000" height="265" rx="22" fill="url(#g)"/>
-<path d="M0 220Q230 120 530 225T1000 178" fill="none" stroke="#52e0bd" opacity=".16" stroke-width="2"/>
-<path d="M530 265Q760 92 1000 156" fill="none" stroke="#5b8ee5" opacity=".13" stroke-width="2"/>
-<circle cx="865" cy="63" r="126" fill="#52e0bd" opacity=".035"/>
-<rect x="52" y="41" width="76" height="4" rx="2" fill="url(#line)"/>
-<text x="52" y="94" fill="#8cb4b5" font-size="14" font-family="Arial, sans-serif" letter-spacing="3">@TALH4TR</text>
-<text x="48" y="164" fill="#f1f7f6" font-size="63" font-family="Georgia, serif">Talha Çiftçi</text>
-<text x="52" y="206" fill="#acd0cb" font-size="17" font-family="Arial, sans-serif">DİJİTAL  ·  OYUN  ·  MÜZİK</text>
-<text x="948" y="222" text-anchor="end" fill="#79a9ad" font-size="13" font-family="Arial, sans-serif">İZMİR  /  TÜRKİYE</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="350" viewBox="0 0 1000 350" role="img" aria-labelledby="title">
+<title id="title">talh4tr — Talha Çiftçi</title>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#17131f"/><stop offset="1" stop-color="#100f15"/></linearGradient><radialGradient id="glow"><stop stop-color="#9c79f2" stop-opacity=".2"/><stop offset="1" stop-color="#9c79f2" stop-opacity="0"/></radialGradient></defs>
+<rect width="1000" height="350" rx="24" fill="url(#bg)"/>
+<circle cx="826" cy="172" r="210" fill="url(#glow)"/>
+<path d="M48 66H952" stroke="#302a3d"/>
+<rect x="48" y="34" width="8" height="8" fill="#d6f781"/>
+<text x="69" y="42" fill="#cbc5d7" font-size="12" font-family="monospace" letter-spacing="2">TALHA ÇİFTÇİ</text>
+<text x="951" y="42" text-anchor="end" fill="#958da5" font-size="11" font-family="monospace" letter-spacing="2">İZMİR / TR</text>
+<g transform="translate(809 178) rotate(-28)" fill="none" stroke="#a58ad8" stroke-width="1.1" opacity=".52">
+<ellipse rx="124" ry="88"/><ellipse rx="124" ry="62"/><ellipse rx="124" ry="30"/><ellipse rx="96" ry="88"/><ellipse rx="52" ry="88"/><path d="M-124 0H124M0-88V88"/>
+</g>
+<path d="M790 89L796 105L812 111L796 117L790 133L784 117L768 111L784 105Z" fill="#d6f781"/>
+<circle cx="929" cy="219" r="5" fill="#b999fa"/>
+<text x="44" y="219" fill="#f5f0ff" font-size="122" font-family="Arial, DejaVu Sans, sans-serif" font-weight="bold" letter-spacing="-7">talh4tr<tspan fill="#d6f781">.</tspan></text>
+<path d="M49 251H127" stroke="#b999fa" stroke-width="4"/>
+<g transform="translate(48 290)" stroke="#9b8fb0" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M0 8L6 2M0 8L6 14M25 8L19 2M25 8L19 14M15 0L10 16"/>
+<path d="M55 5Q56 0 61 0H72Q77 0 78 5L80 15Q79 18 76 16L71 12H62L57 16Q53 18 53 15Z M58 6H64M61 3V9"/><circle cx="73" cy="5" r="1"/><circle cx="76" cy="8" r="1"/>
+<path d="M110 10V7A10 10 0 0 1 130 7V10M110 8H114V17H110ZM126 8H130V17H126Z"/>
+</g>
+<text x="950" y="306" text-anchor="end" fill="#726a81" font-size="11" font-family="monospace" letter-spacing="3">⌘</text>
 </svg>
