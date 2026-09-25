@@ -8,7 +8,7 @@ from urllib.request import Request, urlopen
 
 USER = "talh4tr"
 OUT = Path("assets/contributions.svg")
-COLORS = ["#1c2632", "#144a50", "#1b777a", "#21a69d", "#52e0bd"]
+COLORS = ["#282133", "#44325d", "#74569c", "#a781de", "#d6f781"]
 MONTHS = ["Oca", "Şub", "Mar", "Nis", "May", "Haz", "Tem", "Ağu", "Eyl", "Eki", "Kas", "Ara"]
 
 class Days(HTMLParser):
@@ -39,17 +39,17 @@ width = max(980, left + weeks * step + 34)
 parts = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="264" viewBox="0 0 {width} 264" role="img" aria-labelledby="title desc">',
     '<title id="title">GitHub katkı takvimi</title>',
     f'<desc id="desc">{escape(USER)} için {start.isoformat()} ile {end.isoformat()} arasındaki katkı yoğunluğu.</desc>',
-    '<rect width="100%" height="100%" rx="20" fill="#0e1723"/>',
-    '<rect x="1" y="1" width="99.8%" height="262" rx="19" fill="none" stroke="#263745"/>',
-    '<text x="30" y="38" fill="#ebf5f3" font-size="19" font-family="Arial, sans-serif" font-weight="bold">GitHub etkinliği</text>',
-    f'<text x="{width-30}" y="37" text-anchor="end" fill="#82a6ab" font-size="12" font-family="Arial, sans-serif">son 12 ay · {end.isoformat()}</text>']
+    '<rect width="100%" height="100%" rx="20" fill="#17131f"/>',
+    '<rect x="1" y="1" width="99.8%" height="262" rx="19" fill="none" stroke="#332b44"/>',
+    '<text x="30" y="38" fill="#f5f0ff" font-size="19" font-family="Arial, sans-serif" font-weight="bold">ACTIVITY</text>',
+    f'<text x="{width-30}" y="37" text-anchor="end" fill="#968aa8" font-size="12" font-family="Arial, sans-serif">son 12 ay · {end.isoformat()}</text>']
 for weekday, label in [(1, "Pzt"), (3, "Çar"), (5, "Cum")]:
-    parts.append(f'<text x="30" y="{top+weekday*step+10}" fill="#829aa3" font-size="11" font-family="Arial, sans-serif">{label}</text>')
+    parts.append(f'<text x="30" y="{top+weekday*step+10}" fill="#968aa8" font-size="11" font-family="Arial, sans-serif">{label}</text>')
 last_month = None
 for week in range(weeks):
     sunday = first_sunday + timedelta(days=week*7)
     if sunday.month != last_month and week < weeks-2:
-        parts.append(f'<text x="{left+week*step}" y="65" fill="#92adb4" font-size="11" font-family="Arial, sans-serif">{MONTHS[sunday.month-1]}</text>')
+        parts.append(f'<text x="{left+week*step}" y="65" fill="#b9adca" font-size="11" font-family="Arial, sans-serif">{MONTHS[sunday.month-1]}</text>')
         last_month = sunday.month
     for weekday in range(7):
         day = sunday + timedelta(days=weekday)
@@ -57,11 +57,11 @@ for week in range(weeks):
             continue
         x, y = left+week*step, top+weekday*step
         parts.append(f'<rect x="{x}" y="{y}" width="{size}" height="{size}" rx="3" fill="{COLORS[parser.days[day]]}"/>')
-parts += ['<text x="30" y="231" fill="#829aa3" font-size="11" font-family="Arial, sans-serif">Az</text>']
+parts += ['<text x="30" y="231" fill="#968aa8" font-size="11" font-family="Arial, sans-serif">Az</text>']
 for i, color in enumerate(COLORS):
     parts.append(f'<rect x="{56+i*17}" y="221" width="12" height="12" rx="3" fill="{color}"/>')
-parts += ['<text x="151" y="231" fill="#829aa3" font-size="11" font-family="Arial, sans-serif">Çok</text>',
-    f'<text x="{width-30}" y="231" text-anchor="end" fill="#82a6ab" font-size="11" font-family="Arial, sans-serif">Kaynak: GitHub · Günlük güncellenir</text>', '</svg>']
+parts += ['<text x="151" y="231" fill="#968aa8" font-size="11" font-family="Arial, sans-serif">Çok</text>',
+    f'<text x="{width-30}" y="231" text-anchor="end" fill="#968aa8" font-size="11" font-family="Arial, sans-serif">talh4tr / GitHub</text>', '</svg>']
 OUT.parent.mkdir(parents=True, exist_ok=True)
 OUT.write_text("\n".join(parts)+"\n", encoding="utf-8")
 print(f"Generated {OUT} from {len(parser.days)} days")
